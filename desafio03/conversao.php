@@ -10,7 +10,7 @@
     <main>
         <h1>Conversor de Moedas</h1>
         <?php 
-            $cotação = 5.17;
+            $cotação = 4.96;
 
             $real = $_REQUEST["din"] ?? 00;
 
